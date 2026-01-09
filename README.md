@@ -25,4 +25,8 @@ I'm a Machine Learning Engineer specializing in Large Language Models. 🤖💬
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gaurav-chaudhari-b4b594229/)
 
+## More About me 
+
+Know more about me [Portfolio](https://gaurav-chaudhari.vercel.app/)
+
 Thanks for stopping by! 😊
