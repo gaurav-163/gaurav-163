@@ -72,9 +72,9 @@ I build **AI-powered systems using Machine Learning and Large Language Models**,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=GAURAV-CHAUDHARI&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav-163&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-chaudhari&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav-163&theme=tokyonight)
 
 ---
 
