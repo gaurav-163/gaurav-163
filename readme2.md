@@ -80,9 +80,7 @@ I build **AI-powered systems using Machine Learning and Large Language Models**,
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/gaurav-chaudhari/gaurav-chaudhari/blob/output/github-contribution-grid-snake.svg)
-
----
+![snake gif](https://github.com/gaurav-163/gaurav-163/blob/output/github-contribution-grid-snake.svg)---
 
 # 🚀 Featured Projects
 
