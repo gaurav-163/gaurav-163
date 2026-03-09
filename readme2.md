@@ -105,6 +105,15 @@ https://www.linkedin.com/in/gaurav-chaudhari-b4b594229/
 🌍 Portfolio  
 https://gaurav-chaudhari.vercel.app/
 
+##backup
+## 📊 GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav-163&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gaurav-163&theme=tokyonight)
+
 ---
 
 ⭐ **Always open to collaborating on AI, Machine Learning, and LLM projects.**
