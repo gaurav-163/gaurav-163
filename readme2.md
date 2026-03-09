@@ -73,8 +73,7 @@ I build **AI-powered systems using Machine Learning and Large Language Models**,
 ---
 
 # 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav-chaudhari&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav-163&theme=tokyo-night)
 
 ---
 
