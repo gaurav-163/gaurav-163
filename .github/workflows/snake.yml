@@ -3,6 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,3 +14,4 @@ jobs:
           github_user_name: gaurav-chaudhari
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
